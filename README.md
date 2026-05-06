@@ -6,7 +6,7 @@ Minecraft server pinger library obtains information such as the MOTD of minecraf
 ```xml
 <repository>
     <id>nurio-repo</id>
-    <url>https://nurio.me/repo/mvn/</url>
+    <url>https://maven.nurio.me/</url>
 </repository>
 ```
 
